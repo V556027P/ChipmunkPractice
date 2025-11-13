@@ -1,1 +1,1 @@
-{"protocol":"0.0.1","filters":[],"charts":[],"bookmarks":[],"comments":[]}
+{"protocol":"0.0.1","filters":[{"filter":{"filter":"diagupdate","flags":{"cases":false,"word":false,"reg":true}},"uuid":"4f701a0a-75cb-4994-8e93-f01012b9a5da","active":true,"colors":{"color":"#000000","background":"#e4e15b"}}],"charts":[],"bookmarks":[],"comments":[]}
